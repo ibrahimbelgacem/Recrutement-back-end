@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "org.bonitasoft.engine.api.APIClient",
+  "type": "java.lang.String",
+  "description": "A description for 'org.bonitasoft.engine.api.APIClient'"
+}]}
